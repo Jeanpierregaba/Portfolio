@@ -338,7 +338,7 @@ html{
 .profile-container .intro-zone .intro-content{
     display: flex;
     flex-direction: row;
-    height: 300px;
+    height: 320px;
     width: 700px;
     border-radius: 25px;
     background: #ffffff;
@@ -438,7 +438,7 @@ html{
 
 .profile-container .intro-zone .intro-content .skills .skill .ui-ux .progress-bar .progress{
     height: 5px;
-    width: 70%;
+    width: 85%;
     background-color: #60a5fa;
     border-radius: 100px;
 }
@@ -561,6 +561,7 @@ html{
     top: 360%;
     rotate: 35deg;
     left: 75%;
+    z-index: -1;
 }
 
 .deco17{
